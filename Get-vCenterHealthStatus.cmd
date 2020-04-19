@@ -1,0 +1,1 @@
+powershell.exe -NoLogo -File "%~dpn0.ps1"
